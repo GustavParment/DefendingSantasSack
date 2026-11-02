@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://2hpk1m1nk2di"]
+
+[ext_resource type="Script" uid="uid://bjivjrxvu1034" path="res://scripts/GridManager.cs" id="1_o5qli"]
+
+[node name="Main" type="Node2D" unique_id=1387620270]
+
+[node name="Grid" type="Node2D" parent="." unique_id=1714493460]
+position = Vector2(96, 36)
+script = ExtResource("1_o5qli")
